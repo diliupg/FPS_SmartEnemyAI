@@ -1,0 +1,3 @@
+This is the NEW FPS GAME built on the  Old "MYFPSGAME-BP" with the Player character and all relevant files migrated from the "FPSGame220923".
+
+After adding the Advanced Mini Map to the NewFPS161023 game, copied it to this folder, renamed it and continued with Ali Elizohery's Smart Enemy AI series from L11 onwards.
